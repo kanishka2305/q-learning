@@ -1,4 +1,4 @@
-# Q Learning Algorithm
+# EXP :07 Q Learning Algorithm
 
 
 ## AIM
